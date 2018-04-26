@@ -1,2 +1,2 @@
-# java
-Repo for testing Java and IntellliJ IDEA.
+# Java
+Repo for testing Java and IntellliJ IDEA
